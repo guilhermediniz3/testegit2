@@ -1,0 +1,18 @@
+Boa noite.
+Sim.]
+Implemente uma classe Conta com atributos Numero, Agência, Saldo
+Implemente os métodos Get/Set dos atributos. 
+Para saldo implemente apenas o método getSaldo
+Implemente uma classe ContaCorrente extendendo a classe conta. 
+Adicione o atributo limite e implemente os métodos get / set
+Implemente a classe de teste. 
+21:35 - Correção 01
+
+
+
+
+Implemente na classe Conta um construtor que receba a numero a agencia. 
+E implementar na classe ContaCorrente um construtor que receba número, agência e limite.
+
+
+Implemente o método depositar na classe ContaCorrente. 
